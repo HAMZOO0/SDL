@@ -1,0 +1,9 @@
+/*.vs
+
+/pratice SDL
+# Ignore everything in folders SDL Rendering window  and SDL initalization
+/SDL Rendering window/*
+!/SDL Rendering window/*.sln
+
+/SDL initalization/*
+!/SDL initalization/*.sln
