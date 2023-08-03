@@ -10,4 +10,5 @@
 # Except for .sdl files in folders 1 and 2
 !/SDL Rendering window/*.sln
 !/SDL initalization/*.sln
-!/SFML/* .sln
+!/SFML/Create Window/* .sln
+!/SFML/Eventss/* .sln
